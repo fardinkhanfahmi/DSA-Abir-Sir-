@@ -46,8 +46,6 @@ This repository contains basic implementations of different DSA concepts for lea
 ### For C++ files:
 
 Compile:
-
-```bash
 g++ filename.cpp -o output
 
 📂 Repository Structure
